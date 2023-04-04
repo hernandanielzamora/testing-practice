@@ -11,7 +11,7 @@
 - Write at least one test for this function.
 <hr>
 ## Task 3
-In this task, you will need to write several tests for each tested function. You could write all of your tests directly at the top level, but it's better to group related tests so their output is more readable. Jest has the describe() method just for that. Read about it [here](https://jestjs.io/docs/api#describename-fn) and apply it in your tests for this task:
+In this task, you will need to write several tests for each tested function. You could write all of your tests directly at the top level, but it's better to group related tests so their output is more readable. Jest has the describe() method just for that. Read about it here (https://jestjs.io/docs/api#describename-fn) and apply it in your tests for this task:
 
 - Write a simple calculator class or object, which will have 4 methods: add, subtract, divide, and multiply.
 - Write at least 3 tests for each of the calculator methods.
